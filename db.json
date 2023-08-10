@@ -47,13 +47,7 @@
       "name": "Gavra Manning",
       "age": 43,
       "email": "gmanning7@lycos.com"
-    },
-    {
-      "id": 9,
-      "name": "Zachary Seward",
-      "age": 45,
-      "email": "zseward8@oracle.com"
     }
-    
+   
   ]
 }
